@@ -5,6 +5,68 @@
    "key": "git:shared/Day1_Drought_in_Amazon_EmmyV2.ipynb",
    "title": "Drought in Amazon"
   },
+  "activity-1-teacher-slides-slides": {
+   "audience": "teacher",
+   "key": "drive:1MW8UpdgNdz08232PXGq-44aa5ADcYkgU2h1Nc-TsBF8",
+   "title": "Teacher slides"
+  },
+  "activity-2-teacher-slides-slides": {
+   "audience": "teacher",
+   "key": "drive:1ujuJKLHaJq-pEEKZV1wL5jCKnaIlNyiTZx7RhQaW-ZY",
+   "title": "Teacher slides"
+  },
+  "activity-3-drought-in-amazon-notebook": {
+   "audience": "shared",
+   "key": "git:shared/Day3_Drought_in_Amazon_EmmyV2.ipynb",
+   "title": "Drought in Amazon"
+  },
+  "activity-3-teacher-slides-slides": {
+   "audience": "teacher",
+   "key": "drive:1EzZWSnaPBSh3tUINb1aTUymmSTm_1ZEWTQ6TGwzjr1M",
+   "title": "Teacher slides"
+  },
+  "activity-4-analyses-of-xylem-data-notebook": {
+   "audience": "shared",
+   "key": "git:shared/Day4_analyses_of_xylem_data_EmmyV2.ipynb",
+   "title": "Analyses of xylem data"
+  },
+  "activity-4-teacher-slides-slides": {
+   "audience": "teacher",
+   "key": "drive:1MvkNo30eCxeeeH1DQAk92fYS0i1UmnZ0V2G1G9CdjoE",
+   "title": "Teacher slides"
+  },
+  "activity-5-stomata-analysis-notebook": {
+   "audience": "shared",
+   "key": "git:shared/Day5_Stomata_analysis_EmmyV2.ipynb",
+   "title": "Stomata analysis"
+  },
+  "activity-5-teacher-slides-slides": {
+   "audience": "teacher",
+   "key": "drive:1-UDwTpEOeKuUFMRFYCouOYwtEKn9OSm_uk9otcqxS68",
+   "title": "Teacher slides"
+  },
+  "activity-6-drought-recovery-notebook": {
+   "audience": "shared",
+   "key": "git:shared/Day6_drought_recovery_EmmyV2.ipynb",
+   "title": "Drought recovery"
+  },
+  "activity-6-teacher-slides-slides": {
+   "audience": "teacher",
+   "key": "drive:1jswiw732GA0VKOCyVbHdmgxRbK0_9ggiRAlnsvjO0CE",
+   "title": "Teacher slides"
+  },
+  "talking-trees-student-workbook-doc": {
+   "audience": "student",
+   "key": "drive:1OWh2yfp8BGnwqyIBYJXH0IryBl1kVE2Eq5jTbieTiTo",
+   "title": "Talking Trees Student Workbook"
+  },
+  "talking-trees-teacher-quick-guide-flow-doc": {
+   "audience": "teacher",
+   "key": "drive:1279N2T05hdZ8uKtb8jXrSbP9-58MHIusWBG6OdTRjGg",
+   "title": "Talking Trees Teacher Quick Guide - Flow"
+  }
+ },
+ "retired": {
   "activity-1-talking-trees-teacher-slides-slides": {
    "audience": "teacher",
    "key": "drive:1J-tnZOWe0qTgFg7RYaT4UITtCXDR5twj",
@@ -15,40 +77,20 @@
    "key": "drive:1h54P-1bRhNzwjdPUJNLphRZJt5cbKx_c",
    "title": "Talking Trees Teacher Slides"
   },
-  "activity-3-drought-in-amazon-notebook": {
-   "audience": "shared",
-   "key": "git:shared/Day3_Drought_in_Amazon_EmmyV2.ipynb",
-   "title": "Drought in Amazon"
-  },
   "activity-3-talking-trees-teacher-slides-slides": {
    "audience": "teacher",
    "key": "drive:1xz92haTBzWsoYldQQZm8D0lwXeDZwcS5",
    "title": "Talking Trees Teacher Slides"
-  },
-  "activity-4-analyses-of-xylem-data-notebook": {
-   "audience": "shared",
-   "key": "git:shared/Day4_analyses_of_xylem_data_EmmyV2.ipynb",
-   "title": "Analyses of xylem data"
   },
   "activity-4-talking-trees-teacher-slides-slides": {
    "audience": "teacher",
    "key": "drive:1gsgdACV7ryddhBPKNWZdIBRaAieC1NJl",
    "title": "Talking Trees Teacher Slides"
   },
-  "activity-5-stomata-analysis-notebook": {
-   "audience": "shared",
-   "key": "git:shared/Day5_Stomata_analysis_EmmyV2.ipynb",
-   "title": "Stomata analysis"
-  },
   "activity-5-talking-trees-teacher-slides-slides": {
    "audience": "teacher",
    "key": "drive:1l-AhHMylGOsr3Lw9VvVDlR3ja5I8Kyds",
    "title": "Talking Trees Teacher Slides"
-  },
-  "activity-6-drought-recovery-notebook": {
-   "audience": "shared",
-   "key": "git:shared/Day6_drought_recovery_EmmyV2.ipynb",
-   "title": "Drought recovery"
   },
   "activity-6-talking-trees-teacher-slides-slides": {
    "audience": "teacher",
@@ -65,6 +107,5 @@
    "key": "drive:1CIWM-SyCbQtVaK8zHBSxdG_W5lE1byJb",
    "title": "Student Workbook"
   }
- },
- "retired": {}
+ }
 }
