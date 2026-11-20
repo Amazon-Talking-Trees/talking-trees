@@ -54,6 +54,16 @@
    "audience": "teacher",
    "key": "drive:11iefkPg5a0vzF6OOVKBYCIFr2gxxyuxP",
    "title": "Talking Trees Teacher Slides"
+  },
+  "student-workbook-2-doc": {
+   "audience": "student",
+   "key": "drive:1nXFFt7emtTWWZTuBB1W0uNBbOKEysLtM",
+   "title": "Student Workbook 2"
+  },
+  "student-workbook-doc": {
+   "audience": "student",
+   "key": "drive:1CIWM-SyCbQtVaK8zHBSxdG_W5lE1byJb",
+   "title": "Student Workbook"
   }
  },
  "retired": {}
