@@ -1,14 +1,19 @@
 {
  "items": {
-  "activity-1-drought-in-amazon-notebook": {
+  "activity-1-drought-in-the-amazon-notebook": {
    "audience": "shared",
-   "key": "git:shared/Day1_Drought_in_Amazon_EmmyV2.ipynb",
-   "title": "Drought in Amazon"
+   "key": "git:shared/TalkingTrees_Act 1.ipynb",
+   "title": "Drought in the Amazon"
   },
   "activity-1-teacher-slides-slides": {
    "audience": "teacher",
    "key": "drive:1MW8UpdgNdz08232PXGq-44aa5ADcYkgU2h1Nc-TsBF8",
    "title": "Teacher slides"
+  },
+  "activity-2-a-day-in-the-amazon-forest-notebook": {
+   "audience": "shared",
+   "key": "git:shared/TalkingTrees_Act 2.ipynb",
+   "title": "A day in the Amazon forest"
   },
   "activity-2-teacher-slides-slides": {
    "audience": "teacher",
@@ -67,6 +72,11 @@
   }
  },
  "retired": {
+  "activity-1-drought-in-amazon-notebook": {
+   "audience": "shared",
+   "key": "git:shared/Day1_Drought_in_Amazon_EmmyV2.ipynb",
+   "title": "Drought in Amazon"
+  },
   "activity-1-talking-trees-teacher-slides-slides": {
    "audience": "teacher",
    "key": "drive:1J-tnZOWe0qTgFg7RYaT4UITtCXDR5twj",
